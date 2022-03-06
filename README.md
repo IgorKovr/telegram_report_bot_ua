@@ -7,7 +7,7 @@
 2. Запустіть консоль. Для цього використовуйте комбінацію клавіш Win+R, у з'явившомуся вікні напишіть cmd та натисніть enter
 3. Далі виконуємо наступні команди:
 ```
-git clone https://github.com/Antcating/telegram_report_bot_ua
+git clone https://github.com/IgorKovr/telegram_report_bot_ua
 cd telegram_report_bot_ua
 pip install -r requirements.txt
 ```
